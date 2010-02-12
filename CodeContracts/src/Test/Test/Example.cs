@@ -2,14 +2,14 @@
 
 namespace Test
 {
-	public class Example
-	{
-		public string Test(string arg)
-		{
-			Contract.Requires(arg != null);
-			Contract.Ensures(Contract.Result<string>() != null);
+	//public class Example
+	//{
+	//    public string Test(string arg)
+	//    {
+	//        Contract.Requires(arg != null);
+	//        Contract.Ensures(Contract.Result<string>() != null);
 
-			return "Test";
-		}
-	}
+	//        return "Test";
+	//    }
+	//}
 }
