@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>AppFSharp</name></assembly>
+<members>
+<member name="M:Program.TableCreator.CreateTable">
+<summary>
+ Method creates table...
+</summary>
+</member>
+<member name="T:Program.TableCreator">
+
+</member>
+<member name="T:Program">
+
+</member>
+</members>
+</doc>

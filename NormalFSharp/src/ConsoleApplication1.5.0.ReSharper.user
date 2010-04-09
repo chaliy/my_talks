@@ -1,0 +1,51 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="593E1236-2D18-463D-9ADE-4570BA977A48/f:Tutorial.fs" caret="7028" fromTop="13" />
+      <File id="4F9D1D2B-6806-4693-BDBA-8FD023799AA0/f:Program.fs" caret="581" fromTop="12" />
+      <File id="A751365F-F613-432C-BBDE-13FDE2D05E2C/f:TableCreator.cs" caret="245" fromTop="4" />
+      <File id="52FB6174-1552-4473-8ED1-022EB8EDBC89/f:Program.fs" caret="501" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A751365F-F613-432C-BBDE-13FDE2D05E2C/f:TableCreator.cs" caret="655" fromTop="11" />
+      <File id="A751365F-F613-432C-BBDE-13FDE2D05E2C/f:TableCreator.cs" caret="139" fromTop="6" />
+      <File id="4F9D1D2B-6806-4693-BDBA-8FD023799AA0/f:Program.fs" caret="255" fromTop="12" />
+      <File id="52FB6174-1552-4473-8ED1-022EB8EDBC89/f:Program.fs" caret="630" fromTop="21" />
+      <File id="52FB6174-1552-4473-8ED1-022EB8EDBC89/f:Program.fs" caret="630" fromTop="21" />
+      <File id="52FB6174-1552-4473-8ED1-022EB8EDBC89/f:Program.fs" caret="0" fromTop="0" />
+      <File id="52FB6174-1552-4473-8ED1-022EB8EDBC89/f:Program.fs" caret="626" fromTop="19" />
+      <File id="A751365F-F613-432C-BBDE-13FDE2D05E2C/f:TableCreator.cs" caret="245" fromTop="4" />
+      <File id="52FB6174-1552-4473-8ED1-022EB8EDBC89/f:Program.fs" caret="630" fromTop="19" />
+      <File id="52FB6174-1552-4473-8ED1-022EB8EDBC89/f:Program.fs" caret="572" fromTop="16" />
+      <File id="52FB6174-1552-4473-8ED1-022EB8EDBC89/f:Program.fs" caret="122" fromTop="3" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="static" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SqlServer.Management.Smo.Server">
+      <Item value="Databases" priority="2" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

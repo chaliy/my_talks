@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AppFSharp", "AppFSharp\AppFSharp.fsproj", "{52FB6174-1552-4473-8ED1-022EB8EDBC89}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tutorial1", "Tutorial1\Tutorial1.fsproj", "{593E1236-2D18-463D-9ADE-4570BA977A48}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Prepared", "Prepared\Prepared.fsproj", "{4F9D1D2B-6806-4693-BDBA-8FD023799AA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCSharp", "AppCSharp\AppCSharp.csproj", "{A751365F-F613-432C-BBDE-13FDE2D05E2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52FB6174-1552-4473-8ED1-022EB8EDBC89}.Debug|x86.ActiveCfg = Debug|x86
+		{52FB6174-1552-4473-8ED1-022EB8EDBC89}.Debug|x86.Build.0 = Debug|x86
+		{52FB6174-1552-4473-8ED1-022EB8EDBC89}.Release|x86.ActiveCfg = Release|x86
+		{52FB6174-1552-4473-8ED1-022EB8EDBC89}.Release|x86.Build.0 = Release|x86
+		{593E1236-2D18-463D-9ADE-4570BA977A48}.Debug|x86.ActiveCfg = Debug|x86
+		{593E1236-2D18-463D-9ADE-4570BA977A48}.Release|x86.ActiveCfg = Release|x86
+		{593E1236-2D18-463D-9ADE-4570BA977A48}.Release|x86.Build.0 = Release|x86
+		{4F9D1D2B-6806-4693-BDBA-8FD023799AA0}.Debug|x86.ActiveCfg = Debug|x86
+		{4F9D1D2B-6806-4693-BDBA-8FD023799AA0}.Release|x86.ActiveCfg = Release|x86
+		{4F9D1D2B-6806-4693-BDBA-8FD023799AA0}.Release|x86.Build.0 = Release|x86
+		{A751365F-F613-432C-BBDE-13FDE2D05E2C}.Debug|x86.ActiveCfg = Debug|x86
+		{A751365F-F613-432C-BBDE-13FDE2D05E2C}.Release|x86.ActiveCfg = Release|x86
+		{A751365F-F613-432C-BBDE-13FDE2D05E2C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
