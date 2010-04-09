@@ -4,3 +4,9 @@ C:\Users\M\Projects\uneta\NormalFSharp\src\ConsoleApplication1\bin\Debug\AppFSha
 C:\Users\M\Projects\uneta\NormalFSharp\src\ConsoleApplication1\bin\Debug\AppFSharp.pdb
 C:\Users\M\Projects\uneta\NormalFSharp\src\ConsoleApplication1\obj\x86\Debug\AppFSharp.exe
 C:\Users\M\Projects\uneta\NormalFSharp\src\ConsoleApplication1\obj\x86\Debug\AppFSharp.pdb
+C:\Users\M\Projects\uneta\NormalFSharp\src\AppFSharp\bin\Debug\ConsoleApplication1.XML
+C:\Users\M\Projects\uneta\NormalFSharp\src\AppFSharp\bin\Debug\AppFSharp.exe
+C:\Users\M\Projects\uneta\NormalFSharp\src\AppFSharp\bin\Debug\AppFSharp.pdb
+C:\Users\M\Projects\uneta\NormalFSharp\src\AppFSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\M\Projects\uneta\NormalFSharp\src\AppFSharp\obj\x86\Debug\AppFSharp.exe
+C:\Users\M\Projects\uneta\NormalFSharp\src\AppFSharp\obj\x86\Debug\AppFSharp.pdb

@@ -30,3 +30,22 @@ module TableCreator =
         tb.Columns.Add(col2)
         
         tb.Create()
+
+
+type CoolDTO = {
+    ID : int
+    Name : string    
+}
+with
+    member this.Test() = printfn "Test"
+    member this.Test2() = printfn "Test2"
+
+let c = { ID = 1; Name = "Test" }
+
+let c' = { c with Name = "Test2" }
+
+let x = (1, "sdf")
+
+let a, b = x
+
+printfn "%A" (a.GetType())
