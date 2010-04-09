@@ -49,3 +49,31 @@ let x = (1, "sdf")
 let a, b = x
 
 printfn "%A" (a.GetType())
+
+
+(* Async patterns *)
+
+open System.IO
+open System.Net    
+
+let getHtml() =
+    async {
+
+        let getResult (rsp : WebResponse) =
+            use stream = rsp.GetResponseStream()
+            use reader = new StreamReader(stream)        
+            reader.ReadToEnd()
+
+        let req = WebRequest.Create("http://localhost:4444/file1.txt")
+        let! rsp = req.AsyncGetResponse()
+        let result1 = getResult(rsp)    
+
+        let req2 = WebRequest.Create("http://localhost:4444/" + result1)
+        let! rsp2 = req2.AsyncGetResponse()
+        return getResult(rsp2)            
+
+    } |> Async.RunSynchronously
+
+let res = getHtml()
+
+printfn "Result %s" res
