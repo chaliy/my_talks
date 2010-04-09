@@ -1,6 +1,0 @@
-C:\Users\M\Projects\uneta\NormalFSharp\src\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
-C:\Users\M\Projects\uneta\NormalFSharp\src\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\M\Projects\uneta\NormalFSharp\src\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\M\Projects\uneta\NormalFSharp\src\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\M\Projects\uneta\NormalFSharp\src\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
-C:\Users\M\Projects\uneta\NormalFSharp\src\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

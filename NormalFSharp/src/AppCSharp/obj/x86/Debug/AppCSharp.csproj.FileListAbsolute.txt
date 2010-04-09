@@ -1,6 +1,0 @@
-C:\Users\M\Projects\uneta\NormalFSharp\src\AppCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\M\Projects\uneta\NormalFSharp\src\AppCSharp\bin\Debug\AppCSharp.exe.config
-C:\Users\M\Projects\uneta\NormalFSharp\src\AppCSharp\bin\Debug\AppCSharp.exe
-C:\Users\M\Projects\uneta\NormalFSharp\src\AppCSharp\bin\Debug\AppCSharp.pdb
-C:\Users\M\Projects\uneta\NormalFSharp\src\AppCSharp\obj\x86\Debug\AppCSharp.exe
-C:\Users\M\Projects\uneta\NormalFSharp\src\AppCSharp\obj\x86\Debug\AppCSharp.pdb
