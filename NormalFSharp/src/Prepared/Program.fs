@@ -77,3 +77,29 @@ let getHtml() =
 let res = getHtml()
 
 printfn "Result %s" res
+
+
+(* Matching *)
+let isOdd x = (x % 2 = 1)
+
+let describeNumber x =
+    match isOdd x with
+    | true -> printfn "x is odd"
+    | false -> printfn "x is even"
+
+let testAnd x y =
+    match x, y with
+    | true, true -> true
+    | true, false -> false
+    | false, true -> false
+    | false, false -> false
+
+let anotherTest (x : string * string ) =
+    match x with
+    | ( z, "Test" ) when z.StartsWith("F") 
+        -> printfn "Test with %s" z
+    | _ -> printfn "Not test"
+
+
+anotherTest ("Foo", "Boo" )
+anotherTest ("Foo", "Test")

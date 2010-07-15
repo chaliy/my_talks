@@ -1,1 +1,1 @@
-﻿
+﻿printfn "Result %i" 1

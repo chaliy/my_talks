@@ -1,0 +1,5 @@
+# Введение в DDD для .NET #
+* Чалый Михаил (mike@chaliy.name) *
+* Старший программист, Just Applications Inc. *
+
+
